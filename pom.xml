@@ -15,9 +15,9 @@
     <name>EmoDB</name>
 
     <scm>
-        <connection>scm:git:git@github.com:bazaarvoice/emodb.git</connection>
-        <developerConnection>scm:git:git@github.com:bazaarvoice/emodb.git</developerConnection>
-        <url>scm:git:git@github.com:bazaarvoice/emodb.git</url>
+        <connection>scm:git:git@github.com:r48patel/emodb.git</connection>
+        <developerConnection>scm:git:git@github.com:r48patel/emodb.git</developerConnection>
+        <url>scm:git:git@github.com:r48patel/emodb.git</url>
       <tag>HEAD</tag>
     </scm>
 
